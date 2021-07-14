@@ -9,7 +9,6 @@
 
 /*Add media query for centering logo when the screen becomes smaller*/
 #aboutpicture {
-  background-image: url("file:///Users/bernardliebeskind/Desktop/liebeskind_surfboards/src/about.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
