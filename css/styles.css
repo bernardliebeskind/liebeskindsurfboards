@@ -1,0 +1,39 @@
+
+#backgroundpicture{ 
+	background-image: url("file:///Users/bernardliebeskind/Desktop/bootstrap-4.3.1-dist/pv.jpeg");
+	height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#abouttext{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	padding: 60px;
+	font-stretch: ultra-expanded;
+
+}
+
+#header-nav{
+	background-color: white;
+	height:  40px;
+	border-radius: 0;
+	position: relative;
+
+}
+
+#logo
+{
+
+	height: 360px;
+	border: 40px;
+	margin: 0px 0px 0px 0px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	padding-top: 60px;
+}
