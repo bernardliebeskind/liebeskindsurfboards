@@ -18,7 +18,14 @@
 
 #abouttext {
   font-size: 30px;
-  color: #ff090d;
+  color: red;
+  text-align: center;
+  padding: 60px;
+}
+
+#abouttext2 {
+  font-size: 30px;
+  color: white;
   text-align: center;
   padding: 60px;
 }

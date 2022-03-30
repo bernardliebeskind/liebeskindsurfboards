@@ -9,9 +9,9 @@ const About = () =>{
 <body >
         <div id="backgroundpicture" style={{ backgroundImage: `url(${about})` }}>
 	        <NavBar />
-            <h1 id="abouttext">EcoBoards</h1>
+            <h1 id="abouttext2">EcoBoards</h1>
            
-            <center id="abouttext">
+            <center id="abouttext2">
                 Liebeskind surfboards are manufactured using sustainable recycling practices. All excess foam is recycled,
                 and our boards are made using post-consumer Marko Expanded Polystyrene Foam Blanks.
             </center>

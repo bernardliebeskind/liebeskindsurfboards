@@ -1,6 +1,6 @@
 import React from 'react'
 import LSWebsite from './LSWebsite.png'
-import background from "./pv.jpeg"
+import background from "./BW.jpeg"
 
 function Body() {
     return (
@@ -17,7 +17,7 @@ function Body() {
                     paddingTop: '60px',
                 }}/>
 	        </a>
-                <center id="abouttext">
+                <center id="abouttext2">
                 Founded in 2020, Liebeskind Surfboards is an small-scale surfboard manufacturer run from 
                 my backyard in sunny Los Angeles, California. The entire board-building process, from shaping 
                 to sanding, is done by me, Bernard Liebeskind. If you can dream of it, I'll make it. Please contact 
